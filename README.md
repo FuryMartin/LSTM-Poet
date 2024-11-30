@@ -44,3 +44,9 @@ python train.py
 ```bash
 python model.py
 ```
+
+## 致谢
+本项目参考了以下项目：
+- [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)：原始数据集
+- [tom-ml/LSTM_POET](https://github.com/tom-ml/LSTM_POET)：参考了数据集清洗及构建过程、任务建模过程
+- [0809zheng/automatic-poetry-pytorch](https://github.com/0809zheng/automatic-poetry-pytorch)：参考了模型训练过程
